@@ -36,6 +36,7 @@ for i in range(1, 10):
         print("%d * %d" %(i, j))
     print()
 
+# 함수
 def func():
     print("Called func()")
 
