@@ -10,3 +10,5 @@
   + lamda, map
   + modular
   + 클래스(class)
+
+### 자세한 내용은 [저의 블로그](https://enginecode.tistory.com/category/Python/%EA%B8%B0%EC%B4%88)에 정리해놨습니다.
